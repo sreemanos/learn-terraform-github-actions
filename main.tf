@@ -15,7 +15,7 @@ terraform {
     organization = "Aspire_personal"
 
     workspaces {
-      name = "gh-actins-demo"
+      name = "gh-actions-demo"
     }
   }
 }
