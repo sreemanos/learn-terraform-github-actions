@@ -12,7 +12,7 @@ terraform {
   required_version = ">= 1.1.0"
 
   cloud {
-    organization = "Aspire_personal"
+    organization = " Aspire_personal"
 
     workspaces {
       name = "gh-actions-demo"
